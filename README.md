@@ -1,6 +1,8 @@
 # startech-12u-diy-enclosure
 A free, open set of designs for building a sound dampening enclosure for the [StarTech 12U 19" Open Frame Server Rack](https://www.startech.com/en-us/server-management/4postrack12u). This design is simple, yet elegant, and allows for growth in the cooling solution depending on cooling needs. 
 
+![Completed Enclosure](/images/front-door-open-side.jpg)
+
 ## Features
  * Allows somewhat easy removal of the enclosure from the rack frame
    * The bottom is removable, then the top and sides are lifted off
