@@ -21,7 +21,7 @@ A free, open set of designs for building a sound dampening enclosure for the [St
  1. Start by planning everything out. Understand the dimensions.
  2. Cut all panels to size (including the doors, which we'll attach later).
  3. Cut all end caps to size.
- 4. Pre-drill 6 evenly spaced pilot+counter sink holes through the Top Panel, and into the Side Panels.
+ 4. Pre-drill 12 evenly spaced pilot+counter sink holes through the Top Panel and into the Side Panels, 6 on each side.
     (the pilot holes will exist in both the Top Panel and Side Panels, in line, but only the counter sink holes will be in the Top Panel)
  5. Assemble Top and Side Panels using wood glue and screws - 6x 2-1/2 inch screws on each side.
  6. Attach end caps (1/4 inch thick) to sides of the Top Panel using wood glue and finishing nails.
